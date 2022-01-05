@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minesweeper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azbileg1/node-js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azbileg1/node-js-practice/issues"
+  },
+  "homepage": "https://github.com/Azbileg1/node-js-practice#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
